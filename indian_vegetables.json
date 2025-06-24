@@ -1,0 +1,83 @@
+[
+  {
+    "VegetableId": 101,
+    "VegetableCode": "IN001",
+    "CatalogId": 1,
+    "Name": "टमाटर (Tomato)",
+    "Description": "टमाटर भारत में सबसे लोकप्रिय सब्ज़ियों में से एक है। यह लाल रंग का फल जो सलाद, करी और सूप में उपयोग किया जाता है। विटामिन C और लाइकोपीन का अच्छा स्रोत।",
+    "ThumbnailImage": "https://example.com/images/tomato.png",
+    "SeedDepth": "1/2-1 इंच (1.3-2.5 सेमी)",
+    "GerminationSoilTemp": "20-25°C",
+    "DaysToGermination": 7,
+    "SowIndoors": "मार्च-अप्रैल",
+    "SowOutdoors": "जून-जुलाई",
+    "PhRange": "6.0-7.0",
+    "GrowingSoilTemp": "21-27°C",
+    "SpacingBeds": "18-24 इंच (45-60 सेमी)",
+    "Watering": "मध्यम",
+    "Light": "पूरा सूरज",
+    "GoodCompanions": "तुलसी, गाजर, प्याज",
+    "BadCompanions": "बैंगन, आलू",
+    "SowingDescription": "बीज को नर्सरी में बोकर, पौधे तैयार करें। पौधों को 6-8 सप्ताह बाद मुख्य खेत में ट्रांसप्लांट करें।",
+    "GrowingDescription": "टमाटर के पौधे को नियमित पानी और खाद की आवश्यकता होती है। अच्छी रोशनी और जल निकासी से बेहतर उत्पादन होता है।",
+    "HarvestDescription": "टमाटर को तब काटें जब वे पूरी तरह लाल और पक चुके हों।",
+    "Active": true,
+    "Season": "ग्रीष्म ऋतु",
+    "DaysToHarvestSeeds": 90,
+    "DaysToHarvestSeedlings": 75,
+    "HealthBenefits": "टमाटर विटामिन C, पोटैशियम और एंटीऑक्सिडेंट से भरपूर होता है, जो हृदय स्वास्थ्य और त्वचा के लिए लाभकारी है।",
+    "Pests": [
+      {
+        "name": "टमाटर कीट (Tomato Fruit Borer)",
+        "description": "यह कीट टमाटर के फलों में छेद करता है और फसल को नुकसान पहुंचाता है।",
+        "symptoms": "फलों में छेद और सड़े हुए हिस्से।",
+        "treatment": "फलों को नियमित जांचें, संक्रमित फल हटाएं, नीम का तेल छिड़काव करें।",
+        "photo": "https://example.com/images/tomato_fruit_borer.png"
+      },
+      {
+        "name": "एफिड्स (Aphids)",
+        "description": "छोटे हरे कीट जो पौधों का रस चूसते हैं और पत्तियों को नुकसान पहुंचाते हैं।",
+        "symptoms": "पत्तियाँ मुरझाती हैं और पौधा कमजोर दिखता है।",
+        "treatment": "प्राकृतिक शिकारियों जैसे लेडीबग का उपयोग करें या नीम का तेल छिड़काव करें।",
+        "photo": "https://example.com/images/aphids.png"
+      }
+    ]
+  },
+  {
+    "VegetableId": 102,
+    "VegetableCode": "IN002",
+    "CatalogId": 2,
+    "Name": "भिंडी (Okra)",
+    "Description": "भिंडी एक गर्म मौसम की सब्ज़ी है जो भारत में बहुतायत में उगाई जाती है। यह फाइबर और विटामिन C का अच्छा स्रोत है।",
+    "ThumbnailImage": "https://example.com/images/okra.png",
+    "SeedDepth": "1 इंच (2.5 सेमी)",
+    "GerminationSoilTemp": "25-30°C",
+    "DaysToGermination": 7,
+    "SowIndoors": "अप्रैल",
+    "SowOutdoors": "मई-जून",
+    "PhRange": "6.5-7.5",
+    "GrowingSoilTemp": "24-30°C",
+    "SpacingBeds": "12-18 इंच (30-45 सेमी)",
+    "Watering": "मध्यम",
+    "Light": "पूरा सूरज",
+    "GoodCompanions": "टमाटर, धनिया",
+    "BadCompanions": "आलू, गाजर",
+    "SowingDescription": "बीजों को सीधे खेत में बोएं। मिट्टी अच्छी तरह से नमीदार होनी चाहिए।",
+    "GrowingDescription": "भिंडी के पौधों को नियमित पानी दें, लेकिन जलभराव से बचें।",
+    "HarvestDescription": "जब भिंडी 2-3 इंच लंबी हो जाए तो उसे तोड़ लें।",
+    "Active": true,
+    "Season": "ग्रीष्म ऋतु",
+    "DaysToHarvestSeeds": 60,
+    "DaysToHarvestSeedlings": 50,
+    "HealthBenefits": "भिंडी पाचन में मदद करती है, और विटामिन A और C से भरपूर होती है।",
+    "Pests": [
+      {
+        "name": "पंखुड़ी कीट (Aphids)",
+        "description": "छोटे कीट जो पौधे के रस को चूसते हैं।",
+        "symptoms": "पत्तियाँ मुरझाती हैं, पौधे कमजोर होते हैं।",
+        "treatment": "नीम का तेल छिड़काव और प्राकृतिक शिकारियों का प्रयोग करें।",
+        "photo": "https://example.com/images/aphids.png"
+      }
+    ]
+  }
+]
