@@ -1,3 +1,4 @@
+```json
 [
   {
     "VegetableId": 101,
@@ -13,7 +14,7 @@
       "hi": "टमाटर भारत में सबसे लोकप्रिय सब्ज़ियों में से एक है। यह लाल रंग का फल जो सलाद, करी और सूप में उपयोग किया जाता है। विटामिन C और लाइकोपीन का अच्छा स्रोत।",
       "mr": "टोमॅटो भारतातील एक अतिशय लोकप्रिय भाजी आहे. लालसर फळ जे कोशिंबीर, करी व सूपमध्ये वापरले जाते. हे व्हिटॅमिन C आणि लाइकोपीनचा चांगला स्रोत आहे."
     },
-    "ThumbnailImage": "https://example.com/images/tomato.png",
+    "ThumbnailImage": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
     "SeedDepth": {
       "en": "1/2-1 inch",
       "hi": "1/2-1 इंच",
@@ -115,5 +116,474 @@
         "photo": "https://example.com/images/tomato_fruit_borer.png"
       }
     ]
+  },
+  {
+    "VegetableId": 102,
+    "VegetableCode": "IN002",
+    "CatalogId": 1,
+    "Name": {
+      "en": "Potato",
+      "hi": "आलू",
+      "mr": "बटाटा"
+    },
+    "Description": {
+      "en": "Potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. It is the world's fourth-largest food crop.",
+      "hi": "आलू सोलनम ट्यूबरोसम नामक बारहमासी नाइटशेड से प्राप्त एक स्टार्चयुक्त, कंद वाली फसल है। यह दुनिया की चौथी सबसे बड़ी खाद्य फसल है।",
+      "mr": "बटाटा हे सोलनम ट्यूबरोसम या बारमाही वनस्पतीपासून मिळणारे एक स्टार्चयुक्त कंदमूळ आहे. हा जगातील चौथा सर्वात मोठा अन्न पीक आहे."
+    },
+    "ThumbnailImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/1200px-Patates.jpg",
+    "SeedDepth": {
+      "en": "4 inches",
+      "hi": "4 इंच",
+      "mr": "4 इंच"
+    },
+    "GerminationSoilTemp": {
+      "en": "10-20°C",
+      "hi": "10-20°C",
+      "mr": "10-20°C"
+    },
+    "DaysToGermination": 14,
+    "SowIndoors": {
+      "en": "Not applicable",
+      "hi": "लागू नहीं",
+      "mr": "लागू नाही"
+    },
+    "SowOutdoors": {
+      "en": "February-March",
+      "hi": "फरवरी-मार्च",
+      "mr": "फेब्रुवारी-मार्च"
+    },
+    "PhRange": "5.5-6.5",
+    "GrowingSoilTemp": "15-20°C",
+    "SpacingBeds": {
+      "en": "12-15 inches",
+      "hi": "12-15 इंच",
+      "mr": "12-15 इंच"
+    },
+    "Watering": {
+      "en": "Consistent",
+      "hi": "नियमित",
+      "mr": "नियमित"
+    },
+    "Light": {
+      "en": "Full Sun",
+      "hi": "पूरा सूरज",
+      "mr": "संपूर्ण ऊन"
+    },
+    "GoodCompanions": {
+      "en": "Beans, Corn, Cabbage",
+      "hi": "बीन्स, मक्का, पत्तागोभी",
+      "mr": "शेंगदाणे, मका, कोबी"
+    },
+    "BadCompanions": {
+      "en": "Tomato, Cucumber, Squash",
+      "hi": "टमाटर, खीरा, कद्दू",
+      "mr": "टोमॅटो, काकडी, भोपळा"
+    },
+    "SowingDescription": {
+      "en": "Plant potato 'seed' pieces directly in the ground, cut side down.",
+      "hi": "आलू के 'बीज' के टुकड़ों को सीधे जमीन में, कटे हुए हिस्से को नीचे करके लगाएं।",
+      "mr": "बटाट्याचे 'बियाणे' तुकडे थेट जमिनीत, कापलेली बाजू खाली ठेवून लावा."
+    },
+    "GrowingDescription": {
+      "en": "Hill up soil around plants as they grow to protect tubers from light.",
+      "hi": "पौधों के बढ़ने के साथ-साथ मिट्टी को ऊपर चढ़ाते रहें ताकि कंदों को प्रकाश से बचाया जा सके।",
+      "mr": "कंदांना प्रकाशापासून वाचवण्यासाठी झाडे वाढत असताना त्यांच्या भोवती मातीची ढिगारे करा."
+    },
+    "HarvestDescription": {
+      "en": "Harvest when foliage dies back, usually 2-3 weeks after flowering.",
+      "hi": "जब पत्तियां सूखने लगें, तो कटाई करें, आमतौर पर फूल आने के 2-3 सप्ताह बाद।",
+      "mr": "जेव्हा पाने मरतात, तेव्हा काढणी करा, साधारणपणे फुलांनंतर 2-3 आठवड्यांनी."
+    },
+    "Active": true,
+    "Season": {
+      "en": "Winter",
+      "hi": "सर्दी",
+      "mr": "हिवाळा"
+    },
+    "DaysToHarvestSeeds": 90,
+    "DaysToHarvestSeedlings": 75,
+    "HealthBenefits": {
+      "en": "Good source of Vitamin C, B6, potassium, and fiber.",
+      "hi": "विटामिन C, B6, पोटेशियम और फाइबर का अच्छा स्रोत।",
+      "mr": "व्हिटॅमिन सी, बी6, पोटॅशियम आणि फायबरचा चांगला स्रोत."
+    },
+    "Pests": [
+      {
+        "name": {
+          "en": "Potato Blight",
+          "hi": "आलू का झुलसा रोग",
+          "mr": "बटाट्याचा करपा"
+        },
+        "description": {
+          "en": "Fungus that causes rapid browning and decay of leaves, stems, and tubers.",
+          "hi": "एक कवक जो पत्तियों, तनों और कंदों के तेजी से भूरा होने और सड़ने का कारण बनता है।",
+          "mr": "एक बुरशी ज्यामुळे पाने, देठ आणि कंदांचा वेगाने तपकिरीपणा आणि कुजणे होते."
+        },
+        "symptoms": {
+          "en": "Dark spots on leaves and stems, white mold on the underside of leaves.",
+          "hi": "पत्तियों और तनों पर गहरे धब्बे, पत्तियों के निचले हिस्से पर सफेद फफूंदी।",
+          "mr": "पाने आणि देठांवर गडद ठिपके, पानांच्या खालच्या बाजूस पांढरी बुरशी."
+        },
+        "treatment": {
+          "en": "Remove infected plants, use fungicide, ensure good air circulation.",
+          "hi": "संक्रमित पौधों को हटा दें, फफूंदनाशक का उपयोग करें, अच्छी हवा का संचार सुनिश्चित करें।",
+          "mr": "संक्रमित वनस्पती काढून टाका, बुरशीनाशक वापरा, चांगल्या हवेची व्यवस्था करा."
+        },
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phytophthora_infestans_potato_blight.jpg/800px-Phytophthora_infestans_potato_blight.jpg"
+      }
+    ]
+  },
+  {
+    "VegetableId": 103,
+    "VegetableCode": "IN003",
+    "CatalogId": 1,
+    "Name": {
+      "en": "Onion",
+      "hi": "प्याज",
+      "mr": "कांदा"
+    },
+    "Description": {
+      "en": "Onion is a widely cultivated vegetable known for its pungent flavor and various culinary uses.",
+      "hi": "प्याज एक व्यापक रूप से खेती की जाने वाली सब्जी है जो अपने तीखे स्वाद और विभिन्न पाक उपयोगों के लिए जानी जाती है।",
+      "mr": "कांदा एक मोठ्या प्रमाणात पिकवली जाणारी भाजी आहे जी तिच्या तिखट चवीसाठी आणि विविध पाककृतींमध्ये वापरली जाते."
+    },
+    "ThumbnailImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Onion_plant_whole.jpg/1280px-Onion_plant_whole.jpg",
+    "SeedDepth": {
+      "en": "1/4-1/2 inch",
+      "hi": "1/4-1/2 इंच",
+      "mr": "1/4-1/2 इंच"
+    },
+    "GerminationSoilTemp": {
+      "en": "18-24°C",
+      "hi": "18-24°C",
+      "mr": "18-24°C"
+    },
+    "DaysToGermination": 7,
+    "SowIndoors": {
+      "en": "January-February",
+      "hi": "जनवरी-फरवरी",
+      "mr": "जानेवारी-फेब्रुवारी"
+    },
+    "SowOutdoors": {
+      "en": "March-April",
+      "hi": "मार्च-अप्रैल",
+      "mr": "मार्च-एप्रिल"
+    },
+    "PhRange": "6.0-7.0",
+    "GrowingSoilTemp": "13-24°C",
+    "SpacingBeds": {
+      "en": "4-6 inches",
+      "hi": "4-6 इंच",
+      "mr": "4-6 इंच"
+    },
+    "Watering": {
+      "en": "Moderate",
+      "hi": "मध्यम",
+      "mr": "मध्यम"
+    },
+    "Light": {
+      "en": "Full Sun",
+      "hi": "पूरा सूरज",
+      "mr": "संपूर्ण ऊन"
+    },
+    "GoodCompanions": {
+      "en": "Carrot, Lettuce, Tomato",
+      "hi": "गाजर, लेट्यूस, टमाटर",
+      "mr": "गाजर, लेट्यूस, टोमॅटो"
+    },
+    "BadCompanions": {
+      "en": "Beans, Peas, Asparagus",
+      "hi": "बीन्स, मटर, शतावरी",
+      "mr": "शेंगदाणे, वाटाणा, शतावरी"
+    },
+    "SowingDescription": {
+      "en": "Sow seeds indoors and transplant seedlings, or sow sets directly outdoors.",
+      "hi": "बीज को घर के अंदर बोएं और पौधों को ट्रांसप्लांट करें, या सीधे बाहर सेट करें।",
+      "mr": "बिया आत पेरा आणि रोपे लावा, किंवा थेट बाहेर लावा."
+    },
+    "GrowingDescription": {
+      "en": "Onions prefer loose, well-draining soil. Ensure consistent moisture.",
+      "hi": "प्याज ढीली, अच्छी जल निकासी वाली मिट्टी पसंद करते हैं। लगातार नमी सुनिश्चित करें।",
+      "mr": "कांद्याला सैल, चांगला निचरा होणारी माती आवडते. सातत्यपूर्ण ओलावा सुनिश्चित करा."
+    },
+    "HarvestDescription": {
+      "en": "Harvest when tops fall over and turn yellow. Cure before storing.",
+      "hi": "जब ऊपरी भाग गिर जाएं और पीले हो जाएं तो कटाई करें। भंडारण से पहले सुखा लें।",
+      "mr": "जेव्हा वरचे भाग खाली पडतात आणि पिवळे होतात तेव्हा काढणी करा. साठवण्यापूर्वी वाळवा."
+    },
+    "Active": true,
+    "Season": {
+      "en": "Autumn",
+      "hi": "शरद ऋतु",
+      "mr": "शरद ऋतू"
+    },
+    "DaysToHarvestSeeds": 100,
+    "DaysToHarvestSeedlings": 90,
+    "HealthBenefits": {
+      "en": "Rich in antioxidants, Vitamin C, and B6. May reduce risk of heart disease.",
+      "hi": "एंटीऑक्सिडेंट, विटामिन सी और बी6 से भरपूर। हृदय रोग के जोखिम को कम कर सकता है।",
+      "mr": "अँटीऑक्सिडंट्स, व्हिटॅमिन सी आणि बी6 ने समृद्ध. हृदयरोगाचा धोका कमी करू शकतो."
+    },
+    "Pests": [
+      {
+        "name": {
+          "en": "Onion Maggots",
+          "hi": "प्याज की सूंडी",
+          "mr": "कांद्याची अळी"
+        },
+        "description": {
+          "en": "Larvae tunnel into onion bulbs, causing rot and stunting.",
+          "hi": "लार्वा प्याज के बल्बों में सुरंग बनाते हैं, जिससे सड़न और विकास में बाधा आती है।",
+          "mr": "अळ्या कांद्याच्या गाठींमध्ये बोगदे करतात, ज्यामुळे कुजणे आणि वाढ खुंटते."
+        },
+        "symptoms": {
+          "en": "Stunted growth, yellowing leaves, soft and rotten bulbs.",
+          "hi": "अवरुद्ध विकास, पत्तियों का पीला पड़ना, नरम और सड़े हुए बल्ब।",
+          "mr": "खुंटलेली वाढ, पिवळी पडलेली पाने, मऊ आणि कुजलेले कांदे."
+        },
+        "treatment": {
+          "en": "Rotate crops, plant resistant varieties, use row covers.",
+          "hi": "फसल चक्र अपनाएं, प्रतिरोधी किस्में लगाएं, पंक्ति कवर का उपयोग करें।",
+          "mr": "पिकांची फिरकी करा, प्रतिरोधक जाती लावा, पंक्ती कव्हर वापरा."
+        },
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Onion_maggot.jpg/640px-Onion_maggot.jpg"
+      }
+    ]
+  },
+  {
+    "VegetableId": 104,
+    "VegetableCode": "IN004",
+    "CatalogId": 1,
+    "Name": {
+      "en": "Spinach",
+      "hi": "पालक",
+      "mr": "पालक"
+    },
+    "Description": {
+      "en": "Spinach is a leafy green flowering plant native to central and western Asia. It is widely consumed as a vegetable.",
+      "hi": "पालक मध्य और पश्चिमी एशिया का मूल निवासी एक पत्तेदार हरा फूल वाला पौधा है। इसे व्यापक रूप से सब्जी के रूप में खाया जाता है।",
+      "mr": "पालक हे मध्य आणि पश्चिम आशियातील मूळचे एक पालेभाजी आहे. ते मोठ्या प्रमाणात भाजी म्हणून खाल्ले जाते."
+    },
+    "ThumbnailImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Spinacia_oleracea_-_Spinach_-_Botanical_Garden_-_Saint_Petersburg_-_2015-05-18_-_01.jpg/800px-Spinacia_oleracea_-_Spinach_-_Botanical_Garden_-_Saint_Petersburg_-_2015-05-18_-_01.jpg",
+    "SeedDepth": {
+      "en": "1/2 inch",
+      "hi": "1/2 इंच",
+      "mr": "1/2 इंच"
+    },
+    "GerminationSoilTemp": {
+      "en": "10-22°C",
+      "hi": "10-22°C",
+      "mr": "10-22°C"
+    },
+    "DaysToGermination": 5,
+    "SowIndoors": {
+      "en": "Not applicable",
+      "hi": "लागू नहीं",
+      "mr": "लागू नाही"
+    },
+    "SowOutdoors": {
+      "en": "September-March",
+      "hi": "सितंबर-मार्च",
+      "mr": "सप्टेंबर-मार्च"
+    },
+    "PhRange": "6.0-7.5",
+    "GrowingSoilTemp": "10-20°C",
+    "SpacingBeds": {
+      "en": "6 inches",
+      "hi": "6 इंच",
+      "mr": "6 इंच"
+    },
+    "Watering": {
+      "en": "Consistent",
+      "hi": "नियमित",
+      "mr": "नियमित"
+    },
+    "Light": {
+      "en": "Full Sun to Partial Shade",
+      "hi": "पूरा सूरज या आंशिक छाया",
+      "mr": "पूर्ण सूर्यप्रकाश ते अर्धवट सावली"
+    },
+    "GoodCompanions": {
+      "en": "Strawberry, Beans, Peas",
+      "hi": "स्ट्रॉबेरी, बीन्स, मटर",
+      "mr": "स्ट्रॉबेरी, शेंगदाणे, वाटाणा"
+    },
+    "BadCompanions": {
+      "en": "Potato, Rhubarb",
+      "hi": "आलू, रूबर्ब",
+      "mr": "बटाटा, रूबर्ब"
+    },
+    "SowingDescription": {
+      "en": "Sow seeds directly in well-drained soil. Keep moist.",
+      "hi": "बीज को सीधे अच्छी जल निकासी वाली मिट्टी में बोएं। नम रखें।",
+      "mr": "बिया थेट चांगल्या निचऱ्याच्या मातीत पेरा. ओलसर ठेवा."
+    },
+    "GrowingDescription": {
+      "en": "Spinach grows best in cool weather. Avoid bolting by keeping soil moist.",
+      "hi": "पालक ठंडे मौसम में सबसे अच्छा उगता है। मिट्टी को नम रखकर बोल्टिंग से बचें।",
+      "mr": "पालक थंड हवामानात चांगले वाढते. माती ओलसर ठेवून बोल्टिंग टाळा."
+    },
+    "HarvestDescription": {
+      "en": "Harvest outer leaves when large enough, allowing inner leaves to grow.",
+      "hi": "बाहरी पत्तियों को पर्याप्त बड़ा होने पर काटें, जिससे आंतरिक पत्तियों को बढ़ने का मौका मिले।",
+      "mr": "बाहेरील पाने मोठी झाल्यावर काढा, आतील पानांना वाढू द्या."
+    },
+    "Active": true,
+    "Season": {
+      "en": "Cool Season",
+      "hi": "ठंडा मौसम",
+      "mr": "थंड हंगाम"
+    },
+    "DaysToHarvestSeeds": 40,
+    "DaysToHarvestSeedlings": 30,
+    "HealthBenefits": {
+      "en": "High in iron, Vitamin K, Vitamin A, and Vitamin C. Good for bone health.",
+      "hi": "आयरन, विटामिन K, विटामिन A और विटामिन C में उच्च। हड्डी के स्वास्थ्य के लिए अच्छा।",
+      "mr": "लोह, व्हिटॅमिन के, व्हिटॅमिन ए आणि व्हिटॅमिन सी मध्ये उच्च. हाडांच्या आरोग्यासाठी चांगले."
+    },
+    "Pests": [
+      {
+        "name": {
+          "en": "Aphids",
+          "hi": "एफिड्स",
+          "mr": "मावा"
+        },
+        "description": {
+          "en": "Small insects that suck sap from plants, causing stunted growth and distorted leaves.",
+          "hi": "छोटे कीड़े जो पौधों से रस चूसते हैं, जिससे वृद्धि रुक जाती है और पत्तियां विकृत हो जाती हैं।",
+          "mr": "छोटे कीटक जे वनस्पतींपासून रस शोषतात, ज्यामुळे वाढ खुंटते आणि पाने विकृत होतात."
+        },
+        "symptoms": {
+          "en": "Sticky residue on leaves, curled or yellowing leaves, presence of small insects.",
+          "hi": "पत्तियों पर चिपचिपा अवशेष, मुड़ी हुई या पीली पत्तियां, छोटे कीड़ों की उपस्थिति।",
+          "mr": "पानांवर चिकट अवशेष, गुंडाळलेली किंवा पिवळी पडलेली पाने, लहान कीटकांची उपस्थिती."
+        },
+        "treatment": {
+          "en": "Spray with soapy water, introduce ladybugs, use neem oil.",
+          "hi": "साबुन के पानी से स्प्रे करें, लेडीबग्स छोड़ें, नीम के तेल का उपयोग करें।",
+          "mr": "साबणाच्या पाण्याने फवारणी करा, लेडीबग्स सोडा, कडुलिंबाचे तेल वापरा."
+        },
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aphids_on_rose.jpg/640px-Aphids_on_rose.jpg"
+      }
+    ]
+  },
+  {
+    "VegetableId": 105,
+    "VegetableCode": "IN005",
+    "CatalogId": 1,
+    "Name": {
+      "en": "Carrot",
+      "hi": "गाजर",
+      "mr": "गाजर"
+    },
+    "Description": {
+      "en": "Carrot is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist.",
+      "hi": "गाजर एक जड़ वाली सब्जी है, जो आमतौर पर नारंगी रंग की होती है, हालांकि बैंगनी, काले, लाल, सफेद और पीले रंग के किस्में भी मौजूद हैं।",
+      "mr": "गाजर हे एक मूळ भाजी आहे, सामान्यतः केशरी रंगाचे, परंतु जांभळ्या, काळ्या, लाल, पांढऱ्या आणि पिवळ्या रंगाचे प्रकार देखील उपलब्ध आहेत."
+    },
+    "ThumbnailImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Carrots_from_West_Coast_Seeds.jpg/1280px-Carrots_from_West_Coast_Seeds.jpg",
+    "SeedDepth": {
+      "en": "1/4-1/2 inch",
+      "hi": "1/4-1/2 इंच",
+      "mr": "1/4-1/2 इंच"
+    },
+    "GerminationSoilTemp": {
+      "en": "10-25°C",
+      "hi": "10-25°C",
+      "mr": "10-25°C"
+    },
+    "DaysToGermination": 10,
+    "SowIndoors": {
+      "en": "Not applicable",
+      "hi": "लागू नहीं",
+      "mr": "लागू नाही"
+    },
+    "SowOutdoors": {
+      "en": "August-February",
+      "hi": "अगस्त-फरवरी",
+      "mr": "ऑगस्ट-फेब्रुवारी"
+    },
+    "PhRange": "6.0-7.0",
+    "GrowingSoilTemp": "15-20°C",
+    "SpacingBeds": {
+      "en": "2-4 inches",
+      "hi": "2-4 इंच",
+      "mr": "2-4 इंच"
+    },
+    "Watering": {
+      "en": "Consistent",
+      "hi": "नियमित",
+      "mr": "नियमित"
+    },
+    "Light": {
+      "en": "Full Sun",
+      "hi": "पूरा सूरज",
+      "mr": "संपूर्ण ऊन"
+    },
+    "GoodCompanions": {
+      "en": "Lettuce, Rosemary, Radish",
+      "hi": "लेट्यूस, रोज़मेरी, मूली",
+      "mr": "लेट्यूस, रोझमेरी, मुळा"
+    },
+    "BadCompanions": {
+      "en": "Dill, Fennel",
+      "hi": "डिल, सौंफ",
+      "mr": "डिल, बडीशेप"
+    },
+    "SowingDescription": {
+      "en": "Sow seeds directly in loose, stone-free soil. Keep consistently moist.",
+      "hi": "बीज को सीधे ढीली, पत्थर रहित मिट्टी में बोएं। लगातार नम रखें।",
+      "mr": "बिया थेट सैल, दगड नसलेल्या मातीत पेरा. सातत्यपूर्ण ओलसर ठेवा."
+    },
+    "GrowingDescription": {
+      "en": "Thin seedlings to allow roots to develop. Ensure good drainage.",
+      "hi": "जड़ों को विकसित होने देने के लिए पौधों को पतला करें। अच्छी जल निकासी सुनिश्चित करें।",
+      "mr": "मुळांना विकसित होण्यासाठी रोपे पातळ करा. चांगल्या पाण्याचा निचरा सुनिश्चित करा."
+    },
+    "HarvestDescription": {
+      "en": "Harvest when roots are desired size, usually 2-3 months after planting.",
+      "hi": "जब जड़ें वांछित आकार की हों, तो कटाई करें, आमतौर पर रोपण के 2-3 महीने बाद।",
+      "mr": "जेव्हा मुळे इच्छित आकाराची असतील, तेव्हा काढणी करा, साधारणपणे पेरणीनंतर 2-3 महिन्यांनी."
+    },
+    "Active": true,
+    "Season": {
+      "en": "Cool Season",
+      "hi": "ठंडा मौसम",
+      "mr": "थंड हंगाम"
+    },
+    "DaysToHarvestSeeds": 70,
+    "DaysToHarvestSeedlings": 60,
+    "HealthBenefits": {
+      "en": "Rich in Beta-carotene, Vitamin K, and fiber. Good for vision and digestion.",
+      "hi": "बीटा-कैरोटीन, विटामिन K और फाइबर में भरपूर। दृष्टि और पाचन के लिए अच्छा।",
+      "mr": "बीटा-कॅरोटीन, व्हिटॅमिन के आणि फायबरने समृद्ध. दृष्टी आणि पचनासाठी चांगले."
+    },
+    "Pests": [
+      {
+        "name": {
+          "en": "Carrot Rust Fly",
+          "hi": "गाजर रस्ट फ्लाई",
+          "mr": "गाजर रस्ट माशी"
+        },
+        "description": {
+          "en": "Larvae tunnel into carrot roots, causing dark tunnels and rotting.",
+          "hi": "लार्वा गाजर की जड़ों में सुरंग बनाते हैं, जिससे गहरे सुरंग और सड़न होती है।",
+          "mr": "अळ्या गाजरांच्या मुळांमध्ये बोगदे करतात, ज्यामुळे गडद बोगदे आणि कुजणे होते."
+        },
+        "symptoms": {
+          "en": "Stunted growth, reddish discoloration of foliage, tunneling in roots.",
+          "hi": "अवरुद्ध विकास, पत्तियों का लाल होना, जड़ों में सुरंगें।",
+          "mr": "खुंटलेली वाढ, पालेभाजीचा लालसर रंग, मुळांमध्ये बोगदे."
+        },
+        "treatment": {
+          "en": "Plant late, use row covers, rotate crops.",
+          "hi": "देर से लगाएं, पंक्ति कवर का उपयोग करें, फसल चक्र अपनाएं।",
+          "mr": "उशिरा पेरा, पंक्ती कव्हर वापरा, पिकांची फिरकी करा."
+        },
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Psila_rosae_larva.jpg/640px-Psila_rosae_larva.jpg"
+      }
+    ]
   }
 ]
+```
